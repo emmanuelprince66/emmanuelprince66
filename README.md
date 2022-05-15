@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuelprince66
-- 👀 I’m interested in php and backend technologies
-- 🌱 I’m currently learning php
+- 👀 I’m interested in PHP and backend technologies
+- 🌱 I’m currently working with laravel framework 
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me 
 
