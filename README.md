@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on React js and next js
 - 💞️ I’m looking to collaborate on fullstack projects
 - presently learning blockchain 
-- 📫 How to reach me(08168465081) 
+- 📫 How to reach me(0903 527 1187) 
 
 <!---
 emmanuelprince66/emmanuelprince66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
